@@ -1,0 +1,3 @@
+#Keyfile version:0.2 (do not change Header)
+#Use following Polarisations Signal (H,P,V,M), Decoy (h,p,v,m), Empty (e) seperate them with a new Line
+20000V
