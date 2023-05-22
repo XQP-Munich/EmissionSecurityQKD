@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Software for "
+doi: 
+publisher: Zenodo
+url: 
+authors:
+  - family-names: Baliuka
+    given-names: Adomas
+    orcid: "https://orcid.org/0000-0002-7064-8502"
+  - family-names: Stöcker
+    given-names: Markus
+  - family-names: Auer
+    given-names: Michael
+  - family-names: Freiwang
+    given-names: Peter
+  - family-names: Weinfurter
+    given-names: Harald
+    orcid: "https://orcid.org/0000-0001-6882-3909"
+  - family-names: Knips
+    given-names: Lukas
+    orcid: "https://orcid.org/0000-0002-7404-1708"
+license: MIT
