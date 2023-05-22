@@ -1,0 +1,5 @@
+__pycache__
+tensorboardlogs
+plots
+hyperparam_tuning_*
+
