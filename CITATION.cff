@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 title: "Software for Deep Learning Based Radio Frequency Side-Channel Attack on Quantum Key Distribution"
-doi: 
+doi: 10.5281/zenodo.7965628
 publisher: Zenodo
-url: 
+url: https://10.5281/zenodo.7965628
 authors:
   - family-names: Baliuka
     given-names: Adomas
