@@ -1,4 +1,5 @@
 # QKD Emission Security Evaluation
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7965629.svg)](https://doi.org/10.5281/zenodo.7965629)
 
 Quantum Key Distribution (QKD) is a method of sharing secret keys between parties.
 This repository is a supplement to our paper (in preparation TODO LINK) that analyzes the information leakage about the secret key from a QKD module's electronics through radio-frequency electromagnetic emmissions.
