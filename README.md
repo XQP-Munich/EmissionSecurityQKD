@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7965629.svg)](https://doi.org/10.5281/zenodo.7965629)
 
 Quantum Key Distribution (QKD) is a method of sharing secret keys between parties.
-This repository is a supplement to our paper (in preparation TODO LINK) that analyzes the information leakage about the secret key from a QKD module's electronics through radio-frequency electromagnetic emissions.
+This repository is a supplement to our [paper](https://link.aps.org/doi/10.1103/PhysRevApplied.20.054040) that analyzes the information leakage about the secret key from a QKD module's electronics through radio-frequency electromagnetic emissions.
 
 It contains
 - Python Code (Tensorflow) to train and evaluate a Convolutional Neural Network on recorded EM-Emissions. Results are stored in JSON files.
