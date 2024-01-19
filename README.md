@@ -61,7 +61,22 @@ To evaluate the data and reproduce result files, use the following Jupyter noteb
 
 
 ## References
-### paper (in preparation TODO LINK)
+### paper
+    @article{PhysRevApplied.20.054040,
+      title = {Deep-learning-based radio-frequency side-channel attack on quantum key distribution},
+      author = {Baliuka, Adomas and St\"ocker, Markus and Auer, Michael and Freiwang, Peter and Weinfurter, Harald and Knips, Lukas},
+      journal = {Phys. Rev. Appl.},
+      volume = {20},
+      issue = {5},
+      pages = {054040},
+      numpages = {13},
+      year = {2023},
+      month = {Nov},
+      publisher = {American Physical Society},
+      doi = {10.1103/PhysRevApplied.20.054040},
+      url = {https://link.aps.org/doi/10.1103/PhysRevApplied.20.054040}
+    }
+
 
 ### Datasets
 
